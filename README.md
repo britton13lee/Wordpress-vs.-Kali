@@ -11,7 +11,7 @@ Time spent: 6 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [x] GIF Walkthrough: <img src="https://imgur.com/a/RTfx8Fl" width="800">
+  - [x] GIF Walkthrough: ![](https://imgur.com/a/RTfx8Fl)
   - [x] Steps to recreate:
         Create a new post or page with the following in the content: 
         "[embed src='https://youtube.com/embed/12345\x3csvg onload=alert(1)\x3e'][/embed]"
