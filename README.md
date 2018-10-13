@@ -2,7 +2,7 @@
 
 Time spent: 6 hours spent in total
 
-> Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
+> Objective: Find, analyze, recreate, and document **three vulnerabilities** affecting an old version of WordPress
 
 ## Pentesting Report
 
@@ -39,27 +39,9 @@ Time spent: 6 hours spent in total
   - [x] Steps to recreate: 
         -(Following the steps from https://klikki.fi/adv/wordpress3.html)
         -Create a new post or page
-        -Include an embedded youtube linke with an alert tag on the end of it
-  - [ ] Affected source code:
-    - [Link 3](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-4. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-5. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
+        -Include an embedded youtube link with an alert tag on the end of it
+  - [x] Affected source code:
+    - [Link 3](https://core.trac.wordpress.org/changeset/33359)
 
 ## Assets
 
